@@ -1,6 +1,8 @@
 # healthCare-RPM
+
+This is dashboard for US based health care site. It is RPM(Remote Patient Monitoring System) for 18th above to manage the vitals and provide care taker, and so on.
 In this Web app I have used tech -
-Vue -3, Vuex - 4, vite, firebase, sendbird etc.
+Vue -3, Vuex - 4, vite, firebase(For push notificatios), sendbird(For video Call and chat) etc.
 
 ## Project setup
 ```
